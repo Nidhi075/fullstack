@@ -1,4 +1,4 @@
-# DdvJudge
+# DevJudge
 
 An online judge platform where users can solve coding problems, submit solutions in multiple languages, and get instant verdicts. It is a full stack project with secure, sandboxed code execution.
 
